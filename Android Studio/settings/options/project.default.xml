@@ -1,0 +1,147 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectCodeStyleConfiguration">
+        <code_scheme name="Project" version="173">
+          <JetCodeStyleSettings>
+            <option name="PACKAGES_TO_USE_STAR_IMPORTS">
+              <value>
+                <package alias="false" name="java.util" withSubpackages="false" />
+                <package alias="false" name="kotlinx.android.synthetic" withSubpackages="true" />
+                <package alias="false" name="io.ktor" withSubpackages="true" />
+              </value>
+            </option>
+            <option name="PACKAGES_IMPORT_LAYOUT">
+              <value>
+                <package alias="false" name="" withSubpackages="true" />
+                <package alias="false" name="java" withSubpackages="true" />
+                <package alias="false" name="javax" withSubpackages="true" />
+                <package alias="false" name="kotlin" withSubpackages="true" />
+                <package alias="true" name="" withSubpackages="true" />
+              </value>
+            </option>
+          </JetCodeStyleSettings>
+          <codeStyleSettings language="XML">
+            <indentOptions>
+              <option name="CONTINUATION_INDENT_SIZE" value="4" />
+            </indentOptions>
+            <arrangement>
+              <rules>
+                <section>
+                  <rule>
+                    <match>
+                      <AND>
+                        <NAME>xmlns:android</NAME>
+                        <XML_ATTRIBUTE />
+                        <XML_NAMESPACE>^$</XML_NAMESPACE>
+                      </AND>
+                    </match>
+                  </rule>
+                </section>
+                <section>
+                  <rule>
+                    <match>
+                      <AND>
+                        <NAME>xmlns:.*</NAME>
+                        <XML_ATTRIBUTE />
+                        <XML_NAMESPACE>^$</XML_NAMESPACE>
+                      </AND>
+                    </match>
+                    <order>BY_NAME</order>
+                  </rule>
+                </section>
+                <section>
+                  <rule>
+                    <match>
+                      <AND>
+                        <NAME>.*:id</NAME>
+                        <XML_ATTRIBUTE />
+                        <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
+                      </AND>
+                    </match>
+                  </rule>
+                </section>
+                <section>
+                  <rule>
+                    <match>
+                      <AND>
+                        <NAME>.*:name</NAME>
+                        <XML_ATTRIBUTE />
+                        <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
+                      </AND>
+                    </match>
+                  </rule>
+                </section>
+                <section>
+                  <rule>
+                    <match>
+                      <AND>
+                        <NAME>name</NAME>
+                        <XML_ATTRIBUTE />
+                        <XML_NAMESPACE>^$</XML_NAMESPACE>
+                      </AND>
+                    </match>
+                  </rule>
+                </section>
+                <section>
+                  <rule>
+                    <match>
+                      <AND>
+                        <NAME>style</NAME>
+                        <XML_ATTRIBUTE />
+                        <XML_NAMESPACE>^$</XML_NAMESPACE>
+                      </AND>
+                    </match>
+                  </rule>
+                </section>
+                <section>
+                  <rule>
+                    <match>
+                      <AND>
+                        <NAME>.*</NAME>
+                        <XML_ATTRIBUTE />
+                        <XML_NAMESPACE>^$</XML_NAMESPACE>
+                      </AND>
+                    </match>
+                    <order>BY_NAME</order>
+                  </rule>
+                </section>
+                <section>
+                  <rule>
+                    <match>
+                      <AND>
+                        <NAME>.*</NAME>
+                        <XML_ATTRIBUTE />
+                        <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
+                      </AND>
+                    </match>
+                    <order>ANDROID_ATTRIBUTE_ORDER</order>
+                  </rule>
+                </section>
+                <section>
+                  <rule>
+                    <match>
+                      <AND>
+                        <NAME>.*</NAME>
+                        <XML_ATTRIBUTE />
+                        <XML_NAMESPACE>.*</XML_NAMESPACE>
+                      </AND>
+                    </match>
+                    <order>BY_NAME</order>
+                  </rule>
+                </section>
+              </rules>
+            </arrangement>
+          </codeStyleSettings>
+        </code_scheme>
+      </component>
+      <component name="ProjectViewState">
+        <option name="flattenPackages" value="true" />
+        <option name="showExcludedFiles" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

@@ -1,0 +1,11 @@
+<keymap version="1" name="macOS copy 1" parent="Mac OS X 10.5+">
+  <action id="EditorLeftWithSelection">
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="EditorNextWord" />
+  <action id="EditorNextWordWithSelection" />
+</keymap>

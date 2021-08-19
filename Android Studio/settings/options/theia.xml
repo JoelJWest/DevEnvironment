@@ -1,0 +1,25 @@
+<application>
+  <component name="TheiaAppSettingsProvider">
+    <option name="excludedPathsForTheiaFileWatcher">
+      <list>
+        <option value=".*\.idea/logs/.*" />
+        <option value=".*\.hg/blackbox.*" />
+        <option value=".*\.hg/infinitepushbackup.lock" />
+        <option value=".*\.hg/commitcloudsyncprogress" />
+        <option value=".*fbandroid/out.*" />
+        <option value=".*___jb_bak___.*" />
+        <option value=".*___jb_tmp___.*" />
+        <option value=".*___jb_old___.*" />
+      </list>
+    </option>
+    <option name="enableRefreshSessionScheduler" value="true" />
+    <option name="minFileChangeForNotif" value="10000" />
+    <option name="minFileChangeForWarningNotif" value="100000" />
+    <option name="projectWatchRootsForNativeFileWatcher">
+      <list>
+        <option value="buck-out" />
+        <option value=".idea" />
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,10 @@
+<application>
+  <component name="StudioFlags">
+    <option name="data">
+      <map>
+        <entry key="nele.mock.data" value="false" />
+        <entry key="editor.in.memory.r.classes" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
